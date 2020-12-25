@@ -1,2 +1,2 @@
 # SpringCloud
-Spring Clound学习
+Spring Cloud学习
